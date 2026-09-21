@@ -8,12 +8,12 @@ Forma que achei para organizar os repositórios que eu crio enquanto estudo ling
 ### repositórios
 ---
 
-[esp32-mpu-6050-test](https://github.com/repospaulo/esp32-mpu6050-test);
-[cpp-1st-exam-prep](https://github.com/repospaulo/cpp-1st-exam-prep);
-[oop-cpp-studies](https://github.com/plxulo/oop-cpp-studies);
-[mecphys](https://github.com/plxulo/mecphys);
-[AI_exp-atrito-a1](https://github.com/plxulo/AI_exp-atrito-a1);
-[calculadora_g_aparente](https://github.com/plxulo/calculadora_g_aparente);
+- [esp32-mpu-6050-test](https://github.com/repospaulo/esp32-mpu6050-test)
+- [cpp-1st-exam-prep](https://github.com/repospaulo/cpp-1st-exam-prep)
+- [oop-cpp-studies](https://github.com/plxulo/oop-cpp-studies)
+- [mecphys](https://github.com/plxulo/mecphys)
+- [AI_exp-atrito-a1](https://github.com/plxulo/AI_exp-atrito-a1)
+- [calculadora_g_aparente](https://github.com/plxulo/calculadora_g_aparente)
 
 <br>
 
