@@ -10,6 +10,7 @@ Forma que achei para organizar os repositórios que eu crio enquanto estudo ling
 ### repositórios
 ---
 
+- [empuxo](https://github.com/repospaulo/empuxo)
 - [estudo-cpp-sensores](https://github.com/repospaulo/estudo-cpp-sensores)
 - [cmake-template](https://github.com/repospaulo/cmake-template)
 - [esp32-mpu-6050-test](https://github.com/repospaulo/esp32-mpu6050-test)
